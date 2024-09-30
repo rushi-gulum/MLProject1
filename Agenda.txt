@@ -1,0 +1,7 @@
+Day1'
+
+-setup the github (repository)
+-new environment in VS Code
+-setup.py for  Building Project as Module
+-requirements.txt to download all modules
+- source foulder build package
