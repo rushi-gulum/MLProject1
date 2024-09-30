@@ -5,3 +5,40 @@ Day1'
 -setup.py for  Building Project as Module
 -requirements.txt to download all modules
 - source foulder build package
+
+Day 2'
+
+-exception handling
+-logger file
+
+
+Day 3'
+
+- eda and feature selection
+- Model training
+-data spliting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(EDA, Moduler Coding)
